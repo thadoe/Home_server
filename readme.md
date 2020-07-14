@@ -1,1 +1,2 @@
-Local PHP server for sharing notes 
+My local PHP server for sharing notes
+on progress
